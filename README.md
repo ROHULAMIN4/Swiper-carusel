@@ -1,5 +1,5 @@
 # must install this version.....new version can not found nodule
-#* npm install swiper@6.8.4
+* npm install swiper@6.8.4
 
 * import { Swiper, SwiperSlide } from "swiper/react";
 
