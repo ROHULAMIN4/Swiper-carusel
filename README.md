@@ -1,4 +1,5 @@
 # must install this version.....new version can not found nodule
+* live server https://compassionate-poitras-7448b4.netlify.app/
 * npm install swiper@6.8.4
 
 * import { Swiper, SwiperSlide } from "swiper/react";
